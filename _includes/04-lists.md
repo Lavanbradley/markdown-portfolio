@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+:smile:
+1. Speaghetti 
+2. Ramen
+3. Chicken
+4. Shrimp
