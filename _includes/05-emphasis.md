@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Currently I have no **skills**. I am trying to **learn JavaScript** every day, but there is so little **time**. 
